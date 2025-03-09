@@ -8,7 +8,7 @@ You can use the username smokey in order to get started.
 <details>
   <summary><strong>Hint on what to exploit</strong></summary>
   
-  - SQLi 
+  - SQLi on the username input
 </details>
 
 <details>
