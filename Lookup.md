@@ -90,6 +90,7 @@ Once connected you should have access to read the flag
 </details>
 ## What is the root flag?
 
+
 <details>
   <summary><strong>Hint 1</strong></summary>
 
