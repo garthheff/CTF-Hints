@@ -35,6 +35,7 @@ Find private github repository for web application by the company in room descri
   <summary><strong>Hint #4</strong></summary>
 Search through commits
 </details>
+
 ## What is the first flag?
 
 <details>
@@ -52,6 +53,7 @@ Capture a bad user registration post with browser developer tools or burp suite 
 
 Login
 </details>
+
 ## What is the email of the "admin" user?
 
 <details>
@@ -73,6 +75,7 @@ email address is within a file in a common directory
   <summary><strong>Bigger hint if #2 was not enough</strong></summary>
 search for backup folders
 </details>
+
 ## What is the host name of the web application that allows a user to check an email for a possible password leak?
 
 <details>
