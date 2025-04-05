@@ -13,7 +13,7 @@ Your goal is to identify and exploit vulnerabilities in the application using a 
 
 <details>
   <summary><strong>Hint #1</strong></summary>
-nmap and find website site, hostname of site can be found on website certificate
+nmap and find webservers, hostname of site can be found on website certificate
 </details>
 
 <details>
