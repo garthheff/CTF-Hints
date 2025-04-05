@@ -87,6 +87,7 @@ More than website, find it and check it's certificate
   <summary><strong>Bigger hint if #1 was not enough</strong></summary>
 nmap every port e.g -p- switch find a webserver on a non standard port outside the range of a default port range of nmap
 </details>
+
 ## What is the password of the "admin" user?
 
 <details>
