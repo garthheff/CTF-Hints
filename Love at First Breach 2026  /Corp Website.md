@@ -1,6 +1,8 @@
 # Romance & Co
 
-Room: [https://tryhackme.com/room/lafb2026e7](https://tryhackme.com/room/lafb2026e7)
+Room: https://tryhackme.com/room/lafb2026e7
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Love%20at%20First%20Breach%202026/Corp%20Website.md
 
 ---
 
