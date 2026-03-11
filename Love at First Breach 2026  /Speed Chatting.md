@@ -2,6 +2,8 @@
 
 Room: https://tryhackme.com/room/lafb2026e4
 
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Love%20at%20First%20Breach%202026/Speed%20Chatting.md
+
 ---
 
 ### Scenario
