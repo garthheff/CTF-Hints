@@ -11,7 +11,6 @@ Days before Valentine’s Day, TryHeartMe rushed out a new messaging platform ca
 Our goal was to identify the weakness in the application, gain code execution, and retrieve the flag.
 
 ### Hints
----
 If you are stuck, expand the hints below **one at a time**.  
 Try not to skip ahead unless you really need to.
 
