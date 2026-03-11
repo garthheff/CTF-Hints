@@ -2,6 +2,8 @@
 
 Room: [https://tryhackme.com/room/lafb2026e1](https://tryhackme.com/room/lafb2026e1)
 
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Love%20at%20First%20Breach%202026/When%20Hearts%20Collide.md
+
 ---
 
 # Scenario
