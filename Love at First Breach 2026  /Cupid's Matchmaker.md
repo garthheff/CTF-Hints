@@ -1,5 +1,7 @@
 # Cupid's Matchmaker
 
+Room: https://tryhackme.com/room/lafb2026e3
+
 **Cupid's Matchmaker** claims that real humans manually review each personality survey to match users with compatible singles.
 
 That wording is a strong clue. If staff are reviewing submitted responses in an admin panel, any unsanitized input may later be rendered in a privileged user’s browser. That makes **stored XSS** a likely attack path.
