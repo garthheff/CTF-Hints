@@ -1,6 +1,6 @@
 ## Speed Chat
 
-**Room:** Speed Chat
+**Room:** https://tryhackme.com/room/lafb2026e4
 
 ---
 
