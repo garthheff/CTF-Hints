@@ -1,7 +1,8 @@
 # Deep Into my Heart
 
-Room
-[https://tryhackme.com/room/lafb2026e9](https://tryhackme.com/room/lafb2026e9)
+Room: https://tryhackme.com/room/lafb2026e9
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Love%20at%20First%20Breach%202026/Hidden%20Deep%20Into%20my%20Heart.md
 
 ## Scenario
 
