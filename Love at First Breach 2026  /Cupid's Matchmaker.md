@@ -2,6 +2,8 @@
 
 Room: https://tryhackme.com/room/lafb2026e3
 
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Love%20at%20First%20Breach%202026/Cupid's%20Matchmaker.md
+
 **Cupid's Matchmaker** claims that real humans manually review each personality survey to match users with compatible singles.
 
 That wording is a strong clue. If staff are reviewing submitted responses in an admin panel, any unsanitized input may later be rendered in a privileged user’s browser. That makes **stored XSS** a likely attack path.
