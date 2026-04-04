@@ -4,6 +4,10 @@ SecureSolaCoders has once again developed a web application. They were tired of 
 
 Before we start, download the required files by pressing the Download Task Files button.
 
+Room: https://tryhackme.com/room/capture
+
+Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/capture.md
+
 ---
 
 <details>
