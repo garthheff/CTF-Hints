@@ -1,9 +1,12 @@
 # **Easy - Welcome to the Light database application!**
-https://tryhackme.com/room/lightroom
+
 
 I am working on a database application called Light! Would you like to try it out?
 If so, the application is running on port 1337. You can connect to it using ``nc 10.10.22.91 1337``
 You can use the username smokey in order to get started.
+
+Room: https://tryhackme.com/room/lightroom
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/lightroom.md
 
 <details>
   <summary><strong>Hint on what to exploit</strong></summary>
