@@ -1,5 +1,20 @@
 # CyberLens – Hints
 
+Challenge Description Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image. As you embark on this thrilling journey, prepare to unveil the hidden matrix of information that lurks beneath the surface, for here at CyberLens, we make metadata our playground.
+
+In this labyrinthine realm of cyber security, we have mastered the arcane arts of digital forensics and image analysis. Armed with advanced techniques and cutting-edge tools, we delve into the very fabric of digital images, peeling back layers of information to expose the unseen stories they yearn to tell.
+
+Picture yourself as a modern-day investigator, equipped not only with technical prowess but also with a keen eye for detail. Our team of elite experts will guide you through the intricate paths of image analysis, where file structures and data patterns provide valuable insights into the origins and nature of digital artifacts.
+
+At CyberLens, we believe that every pixel holds a story, and it is our mission to decipher those stories and extract the truth. Join us on this exciting adventure as we navigate the digital landscape and uncover the hidden narratives that await us at every turn.
+
+Can you exploit the CyberLens web server and discover the hidden flags?
+
+
+Room: https://tryhackme.com/room/cyberlensp6
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/CyberLens.md
+
 ---
 
 ## 🌐 Web Enumeration
