@@ -1,7 +1,13 @@
 
 # TryHackMe – Team (Hints Version)
 
+ Beginner friendly boot2root machine
+
 Use these hints progressively. Try not to jump ahead unless you're stuck.
+
+Room: https://tryhackme.com/room/teamcw
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/edit/main/TryHackMe/team.md
 
 ---
 
