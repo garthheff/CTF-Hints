@@ -1,5 +1,8 @@
 # **Easy - Some mistakes can be costly.**
-https://tryhackme.com/room/billing
+Room: https://tryhackme.com/room/billing
+
+Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Billing.md
+
 
 <details>
   <summary><strong>Reconnaissance</strong></summary>
