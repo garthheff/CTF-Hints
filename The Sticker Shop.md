@@ -1,5 +1,8 @@
 Can you exploit the sticker shop in order to capture the flag? What is the content of flag.txt?
-https://tryhackme.com/room/thestickershop
+
+Room: https://tryhackme.com/room/thestickershop
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/The%20Sticker%20Shop.md
 
 <details>
   <summary><strong>Hint on what to exploit</strong></summary>
