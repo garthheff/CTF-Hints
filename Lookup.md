@@ -2,7 +2,10 @@
 
 **Lookup** offers a treasure trove of learning opportunities for aspiring hackers. This intriguing machine showcases various real-world vulnerabilities, ranging from web application weaknesses to privilege escalation techniques. By exploring and exploiting these vulnerabilities, hackers can sharpen their skills and gain invaluable experience in ethical hacking. Through "Lookup," hackers can master the art of reconnaissance, scanning, and enumeration to uncover hidden services and subdomains. They will learn how to exploit web application vulnerabilities, such as command injection, and understand the significance of secure coding practices. The machine also challenges hackers to automate tasks, demonstrating the power of scripting in penetration testing.
 
-Full walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Lookup.md
+Room: https://tryhackme.com/room/lookup
+
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Lookup.md
+
 ## What is the user flag?
 
 <details>
