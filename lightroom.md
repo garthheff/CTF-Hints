@@ -6,6 +6,7 @@ If so, the application is running on port 1337. You can connect to it using ``nc
 You can use the username smokey in order to get started.
 
 Room: https://tryhackme.com/room/lightroom
+
 Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/lightroom.md
 
 <details>
