@@ -10,7 +10,7 @@ Your goal is to identify and exploit vulnerabilities in the application using a 
 
 Room: https://tryhackme.com/room/greprtp
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/Grep.md
+Walkthrough: [https://github.com/garthheff/CTF-Writeups/blob/main/Grep.md](https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Grep.md)
 
 ## What is the API key that allows a user to register on the website?
 
