@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/bsidesgtanonforce
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/edit/main/TryHackMe/Anonforce.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Anonforce.md
 
 ---
 
