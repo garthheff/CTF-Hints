@@ -4,7 +4,7 @@ Boot2root, Web exploitation, Privilege escalation, LFI
 
 Room: https://tryhackme.com/room/archangel
 
-Walkthrough: https://github.com/garthheff/CTF-Hints/blob/main/Anonforce.md
+Walkthrough: https://github.com/garthheff/CTF-Hints/blob/main/archangel.md
 
 ## Find a different hostname
 
