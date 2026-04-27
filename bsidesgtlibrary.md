@@ -63,14 +63,14 @@ You need a username and a password list for SSH.
 <details>
 <summary>Hint 7</summary>
 
-The username is related to the room theme.
+Check the website for possible usernames
 
 </details>
 
 <details>
 <summary>Hint 8</summary>
 
-Try SSH password testing with the hinted wordlist and the discovered or guessed username.
+Try SSH password testing with the hinted wordlist and the discovered username.
 
 </details>
 
