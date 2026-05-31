@@ -1,6 +1,6 @@
 # Windows Jump
 
-Room: https://tryhackme.com/room/bsidesgtanonforce
+Room: https://tryhackme.com/room/windowsjump
 
 Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/windowsjump.md
 
