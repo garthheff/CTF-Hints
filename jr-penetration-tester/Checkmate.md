@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/checkmate
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/Checkmate.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/Checkmate.md
 
 Exploit weak password practices across Marco’s internal systems to achieve full compromise.
 

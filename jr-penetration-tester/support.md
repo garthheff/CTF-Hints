@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/support
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/support.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/support.md
 
 Pentest the Support Ops platform to exploit vulnerabilities and achieve RCE.
 

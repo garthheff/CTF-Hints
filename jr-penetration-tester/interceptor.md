@@ -10,7 +10,7 @@ If you understand the flow well enough, a small change in the request might be a
 
 Room: https://tryhackme.com/room/interceptor
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/interceptor.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/interceptor.md
 
  to a different PHP endpoint than the page itself.
 

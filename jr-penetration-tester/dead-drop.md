@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/dead-drop
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/dead-drop.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/dead-drop.md
 
 Every dead drop points inward. Chain your findings, pivot through the gaps, and follow the trail until nothing is out of reach.
 

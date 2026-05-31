@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/operationpromotion
 
-Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/operationpromotion.md
+Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/operationpromotion.md
 
 One engagement stands between you and your next title.
 

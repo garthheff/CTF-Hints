@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/jump
 
-Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jump.md
+Walthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/jump.md
 
 Use privilege escalation knowledge to jump from a normal user to root.
 

@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/operationcoldstart
 
-Walkthroughs: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/operationcoldstart.md
+Walkthroughs: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/operationcoldstart.md
 
 Wake up the staging server everyone left behind.
 

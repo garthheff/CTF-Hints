@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/domino
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/domino.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/domino.md
 
 from pathlib import Path
 

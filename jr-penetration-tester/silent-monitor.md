@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/silent-monitor
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/silent-monitor.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/silent-monitor.md
 
 Enumerate a running internal service, exploit a vulnerable web application, pivot through the system, and crack your way to root.
 
