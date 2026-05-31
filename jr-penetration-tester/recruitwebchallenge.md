@@ -8,7 +8,7 @@ Can you gain an initial foothold, escalate your access, and ultimately log in as
 
 Room: https://tryhackme.com/room/recruitwebchallenge
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/recruitwebchallenge.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/jr-penetration-tester/recruitwebchallenge.md
 
 ---
 
