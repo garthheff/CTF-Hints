@@ -2,7 +2,7 @@
 
 Room: https://tryhackme.com/room/ide
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/edit/main/TryHackMe/ide.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/ide.md
 
 An easy box to polish your enumeration skills!
 
