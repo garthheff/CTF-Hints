@@ -4,6 +4,8 @@ Are you able to solve this challenge involving reverse engineering and exploit d
 
 Room: https://tryhackme.com/room/dearqa
 
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/dearqa.md
+
 ## Hints
 
 <details>
