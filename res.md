@@ -1,4 +1,4 @@
-# Red
+# Res
 
 Hack into a vulnerable database server with an in-memory data-structure in this semi-guided challenge!
 
