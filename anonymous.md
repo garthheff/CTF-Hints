@@ -1,8 +1,8 @@
-# Boiler CTF
+# Anonymous
 
-Intermediate level CTF. Just enumerate, you'll get there.
+Room: https://tryhackme.com/room/anonymous
 
-Room: https://tryhackme.com/room/boilerctf2
+Not the hacking group
 
 Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/medium/anonymous.md
 
