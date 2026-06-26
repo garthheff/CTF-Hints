@@ -2,9 +2,9 @@
 
 Exercises in Python library abuse and some exploitation techniques
 
-Room: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/medium/peakhill.md
+Room: https://tryhackme.com/room/peakhill
 
-Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/peakhill.md
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/medium/peakhill.md
 
 ---
 
