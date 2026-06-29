@@ -4,6 +4,8 @@ Hack my server dedicated for building communications applications.
 
 Room: https://tryhackme.com/room/aster
 
+Walkthrough: https://github.com/garthheff/CTF-Writeups/blob/main/TryHackMe/medium/aster.md
+
 ---
 
 ## Hint 1
