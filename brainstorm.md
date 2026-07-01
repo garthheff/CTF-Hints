@@ -101,17 +101,3 @@ Once the shell connects, enumerate the user context and search common Windows us
 
 </details>
 
----
-
-## Key Concepts
-
-* Anonymous FTP enumeration
-* Safe binary transfer mode
-* Custom TCP service interaction
-* Local exploit development
-* Stack-based buffer overflow
-* Cyclic pattern offset discovery
-* Instruction pointer control
-* DLL-assisted jump to stack
-* Reverse shell payload delivery
-
